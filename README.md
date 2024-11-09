@@ -4,6 +4,30 @@ Projeto do módulo de Machine Learning I do Santander Coders 2024, que consiste 
 
  > ℹ️ Mais informações sobre o projeto podem ser vistas no arquivo `project_description.ipynb`.
 
+## Inicializando o projeto
+
+1. Clone o repositório
+
+    ```bash
+    git clone https://github.com/Matheus-Chaves/santander-coders-ml1.git
+    ```
+
+2. Opcional, mas recomendado: crie e ative o ambiente virtual com `venv`
+
+    ```bash
+    python -m venv .venv  
+    source .venv/bin/activate
+    ```
+
+    > A versão recomendada do Python está no arquivo `.python_version`
+    > Dependendo do sistema operacional, o comando pode ser 'python3' ao invés de 'python'
+
+3. Instale as dependências
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 ## Integrantes
 
 - Filipe Sousa ([GitHub](https://github.com/filsousa) / [LinkedIn](https://www.linkedin.com/in/filipel-sousa/));
